@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+
+# numpy (future)
+*.npy
+
+# results
+results/
+
+# model
+*.pth
+
+# env
+venv/
+.env
+
+# editor
+.vscode/
